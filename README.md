@@ -84,5 +84,3 @@ These visualizations help identify patterns between **risk, returns, cost, and f
 - Passive investment options such as **ETFs and Index Funds** are widely available
 
 ---
-
-## Project Structure
